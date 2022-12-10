@@ -1,5 +1,5 @@
 ﻿
-int size = 200;
+int size = 2000;
 
 
 int[] FillArray(int arr)
